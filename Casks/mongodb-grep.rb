@@ -1,6 +1,6 @@
 cask "mongodb-grep" do
-  version "0.1.0"
-  sha256 "5d6e88cc59f6eb764b395dcf7d2aa312e0800c398593b88d06c4d31417bc2679"
+  version "0.1.1"
+  sha256 "19ffdd9f7bc5574caa9bff8b75ba0172740e96901613ddfac3a225f202eb2409"
 
   url "https://github.com/ClaudeSeo/homebrew-tap/releases/download/mongodb-grep-v#{version}/mongodb-grep-#{version}-darwin-arm64.dmg"
   name "MongoDB Grep"
