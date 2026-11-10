@@ -1,6 +1,6 @@
 cask "portress" do
-  version "0.1.2"
-  sha256 "145112d03e9177f9423ffcf1da41b6e9120dd426c421da9a5c9ce680b45c6d9c"
+  version "0.1.3"
+  sha256 "378fa1f6d4e6feaa58c11f2fee5bb9edf1a8f118381f1fe7dcf53ae41109e15f"
 
   url "https://github.com/ClaudeSeo/homebrew-tap/releases/download/portress-v#{version}/portress-#{version}-darwin-arm64.dmg"
   name "Portress"
