@@ -1,6 +1,6 @@
 cask "hermes-relay" do
-  version "0.0.1"
-  sha256 "70d053ea3f256a0982a814f466387b00666f302913dcde0fe906728784fadc50"
+  version "0.0.2"
+  sha256 "e6a7f0be738b294731aea582347d010d43f01e6e8753f6485d2161c8e87807d6"
 
   url "https://github.com/ClaudeSeo/homebrew-tap/releases/download/hermes-relay-v#{version}/hermes-relay-#{version}-darwin-arm64.dmg"
   name "Hermes Relay"
